@@ -1,0 +1,31 @@
+ 1003  git init
+ 1004  git remote add origin git@github.com:JessicaMP/20230605-JessicaManturano.git
+ 1005  git remote -v
+ 1006  touch comandos.txt main.js index.html
+ 1007  git status
+ 1008  git add -A
+ 1009  git commit -m "commit 01 de jessicaManturano"
+ 1010  git status
+ 1011  git push
+ 1012  git push --set-upstream origin main
+ 1013  git checkout -b feature
+ 1014  mkdir Hardware Software SeguridadInformatica
+ 1015  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+ 1016  git add -A
+ 1017  git status
+ 1018   git commit -m "commit 02 de jessicaManturano"
+ 1019  git push
+ 1020   git push --set-upstream origin feature
+ 1021  git status
+ 1022  git checkout main
+ 1023  git checkout .
+ 1024  git checkout main
+ 1025  mv comandos.txt resumenHardware.txt
+ 1026  mv index.html resumenSoftware.txt
+ 1027  mv resumenHardware.txt comandos.txt
+ 1028  mv main.js resumenHardware.txt
+ 1029  history > comandos.txt
+ 1030  history 100 > comandos.txt
+ 1031  history 10 > comandos.txt
+ 1032  history 100 > comandos.txt
+ 1033  history 50 > comandos.txt

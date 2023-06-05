@@ -1,0 +1,5 @@
+Listar 3 ejemplos de software
+
+- La Terminal
+- Sistemas operativos
+- Software de antivirus
